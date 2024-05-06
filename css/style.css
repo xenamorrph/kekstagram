@@ -47,7 +47,7 @@ main {
 }
 
 .container {
-  width: 1340px;
+  width: 1360px;
   margin: 0 auto;
 }
 
@@ -293,7 +293,7 @@ main {
 .img-upload__form {
   position: relative;
   min-height: 569px;
-  width: 97.3%;
+
   background-color: #eed21e;
   background-image: url("../img/logo-background-1.jpg");
   background-repeat: no-repeat;
@@ -320,7 +320,7 @@ main {
   position: absolute;
 
   top: 194px;
-  left: 196px;
+  left: 203px;
 
   width: 180px;
   height: 181px;
